@@ -1,0 +1,4 @@
+Violate type: #2c061f
+Gray type: #374045
+Yellow type: #d89216
+Cream type: #e1d89f
